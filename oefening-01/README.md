@@ -36,4 +36,6 @@
 ## 💡 vragen
 
 - Wat wilt de term "responsive" zeggen?
+
 - Waarvoor dient het `<link>`-element?
+om een ander element te linken naar je index.html
